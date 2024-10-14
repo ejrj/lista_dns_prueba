@@ -5,5 +5,3 @@ pepito.com
 nofunciona.com
 estefunciona.com
 estees: unerror.com
-.creative.hpyrdr.com
-oid sha256:6592236b1eec94105faf45abaa7ab1f7fe81f0d4cb92005d1e2cf6fb5a6be9ed
